@@ -1,7 +1,14 @@
-div {
-    color:white;
-    background-color:red;
-    font-size: 48px;
-    text-align:center;
+.odd-numbers {
+    background-color:lightpink;
+    font-family:"Verdana, DejaVu Sans", sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+#title {color:blue; font-size: 36px;}
+#page {
+    background-color:lightgreen;
+    font-size: 24px;
     font-weight:700;
 }
